@@ -15,3 +15,5 @@ kramdown:
 exclude: [uk/CHANGELOG.md]
 
 github: [metadata]
+
+theme: jekyll-theme-cayman
